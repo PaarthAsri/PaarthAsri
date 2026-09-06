@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:1A0B2E,100:000000&height=230&section=header&text=PAARTH%20ASRI&fontSize=64&fontColor=00FFF9&animation=twinkling&fontAlignY=32&desc=Security%20Researcher%20%7C%20AppSec%20%7C%20VAPT%20%7C%20Automation&descAlignY=56&descSize=20&descColor=FF00C8" width="100%"/>
+<img src="assets/hero.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=1800&pause=600&color=39FF14&background=0D0221&center=true&vCenter=true&width=800&height=45&lines=%5BBOOT%5D+loading+security_researcher.exe...;%5BOK%5D+recon+modules+online;%5BOK%5D+exploit+chain+ready;%5B%E2%9C%93%5D+system+initialized" alt="boot sequence"/>
 
