@@ -40,15 +40,15 @@ Career track: AppSec → Pentest → OSCP
 
 ### `>> confirmed findings`
 
-| Target | Class | Status |
+| Target Type | Class | Status |
 |---|---|---|
-| Axon Ivy connector ecosystem | Path Traversal / XXE / SSRF / Arbitrary File R-W | Disclosed · Bounty x2 (€100, €300) |
-| Qdrant Cloud | Blind SSRF (snapshot recovery, DNS callback confirmed) | Disclosed |
-| Qdrant Cloud | Stored XSS (unsanitized collection alias) | Disclosed |
-| Neuron7.ai | Azure Static Web App subdomain takeover | Disclosed |
-| Banco Plata | Exposed Google Maps API key + Sentry DSN | Disclosed |
-| Exness | Potential Unbounce subdomain takeover | Reported |
-| java-tron (TRON DAO) | In progress | Auditing |
+| Open-source integration connectors | Path Traversal / XXE / SSRF / Arbitrary File R-W | Disclosed · Bounty x2 |
+| Vector database platform | Blind SSRF (DNS callback confirmed) | Disclosed |
+| Vector database platform | Stored XSS (unsanitized input field) | Disclosed |
+| SaaS analytics platform | Cloud subdomain takeover | Disclosed |
+| Fintech platform | Exposed API key + error-tracking DSN | Disclosed |
+| Trading platform | Potential subdomain takeover | Reported |
+| Blockchain node (L1) | In progress | Auditing |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFF9,50:BC13FE,100:FF00C8&height=3&animation=fadeIn&width=100%"/>
 
